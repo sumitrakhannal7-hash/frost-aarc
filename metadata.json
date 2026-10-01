@@ -1,0 +1,6 @@
+{
+  "name": "FrostArc",
+  "description": "Full Gemini AI, 60-day student discipline engine, dedicated Workout section with internet form video guides, set & rest timers, workout music ON/OFF beats player, customizable stream & subjects setup, routine to-do list, and streak rewards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
